@@ -21,5 +21,10 @@ File [spikemut_7aahit_CDS.csv](spikemut_7aahit_CDS.csv) contains the nucleotide 
 
 File [spikemut_SC2var_CDS.csv](spikemut_SC2var_CDS.csv) contains the SARS-CoV-2 VOC Spike nucleotide motifs underlying each VMF.
 
+<br>
+
 *Note that fasta file [sc2_spikes.fas](sc2_spikes.fas) only contains GISAID accessions and the Spike coding sequences need to be redownloaded to rerun the analysis due to GISAID data sharing restrictions.*
+
+GISAID acknowledgments for the SARS-CoV-2 sequences used in this reanalysis are provided here: [10.55876/gis8.240424as](https://epicov.org/epi3/epi_set/240424as).
+
 
